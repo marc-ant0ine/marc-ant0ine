@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br><br>I'm Marc-Antoine,Computer Engineering student at Cytech<br><br>I am passionate about problem modeling and predictive analytics.<br><br>Outside of code, you'll find me watching football or playing video games.<br><br>Fun Facts:<br>I'm a Barca fan <br>MESSI 
+Hi there!<br><br>I'm Marc-Antoine,Computer Engineering student at Cytech<br><br>I am passionate about problem modeling and predictive analytics.<br><br>Outside of code, you'll find me watching football or playing video games.<br><br>Fun Facts:<br>I'm a Barca fan 
 
 
 # 💻 Tech Stack:
